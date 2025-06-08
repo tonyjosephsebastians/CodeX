@@ -1,2 +1,2 @@
 # CodeX
-A code anlytic vscode plugin 
+A code analytic vscode plugin 
