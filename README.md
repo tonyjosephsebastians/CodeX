@@ -1,2 +1,2 @@
 # CodeX
-A code analytic vscode plugin 
+A code analytic chrome desktop app 
